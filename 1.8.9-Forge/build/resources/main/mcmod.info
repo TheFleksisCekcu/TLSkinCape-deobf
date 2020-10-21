@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tlauncher_custom_cape_skin",
+  "name": "TLSkinCape",
+  "description": "You can use any skin and cape with tlauncher.org",
+  "version": "1.4",
+  "mcversion": "1.8.9",
+  "url": "https://tlauncher.org",
+  "updateUrl": "",
+  "authorList": ["tlauncher.org"],
+  "credits": "The Forge and FML guys",
+  "logoFile": "/fav48.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

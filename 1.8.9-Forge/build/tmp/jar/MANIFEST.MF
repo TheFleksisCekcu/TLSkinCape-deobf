@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+TweakOrder: 0
+Main-Class: org.tlauncher.skin.cape.TLSkinCape
+

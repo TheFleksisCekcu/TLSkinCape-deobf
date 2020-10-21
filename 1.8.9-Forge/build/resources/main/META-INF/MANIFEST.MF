@@ -1,0 +1,218 @@
+Manifest-Version: 1.0
+FMLCorePluginContainsFMLMod: true
+FMLCorePlugin: org.tlauncher.skin.cape.asm.TLSkinCapeHookLoader
+
+Name: gloomyfolken/hooklib/asm/ClassMetadataReader$FindMethodClassVisi
+ tor.class
+SHA-256-Digest: 6HWCqXKufe88U9C1b+UcxIu3UiI4pZnTaMSYmVzlZBU=
+
+Name: org/tlauncher/skin/cape/util/PreparedProfileManager$2.class
+SHA-256-Digest: GnXoFr2eFS/TGbFl93wBpPsofO8+ekWPISuEJO0Mj4U=
+
+Name: gloomyfolken/hooklib/asm/HookContainerParser$HookClassVisitor.cl
+ ass
+SHA-256-Digest: KkI0txugbkXJr9HtPwWxwmJ9x//CEZRZjZoeQ/7trYc=
+
+Name: gloomyfolken/hooklib/asm/AsmHook$Builder.class
+SHA-256-Digest: 5MpuGpMCWbj9tipoi1cdBJgLthyPGauZ8ebQztZql7A=
+
+Name: gloomyfolken/hooklib/asm/Hook$LocalVariable.class
+SHA-256-Digest: qQmpe9Ef7qFfBTz4NxYjzcWn7R9TPrxXs3XWJdZI5W0=
+
+Name: org/tlauncher/skin/cape/model/State.class
+SHA-256-Digest: qrdByY9LdCNL+QavSPmJkFZYrAEF7p/5qtJytDqMCjw=
+
+Name: org/tlauncher/skin/cape/util/PreparedProfileManager.class
+SHA-256-Digest: PXWNomk5VRNw/i5Bcl64jvw0gSYzc6S1CQQcKUjKB4o=
+
+Name: gloomyfolken/hooklib/minecraft/PrimaryClassTransformer.class
+SHA-256-Digest: oz+2/K/cB90A8a6IdEOA728JPonjikaDATwMyXNEfEk=
+
+Name: org/tlauncher/skin/cape/model/MinecraftProfileTextureDTO.class
+SHA-256-Digest: qp87SzRKGMw3odvjeBtjSMh1KpR/IggrnSHyQt1+f2s=
+
+Name: gloomyfolken/hooklib/asm/AsmHook$1.class
+SHA-256-Digest: oVzsF2gmCJpR2XAPZiEIbCR+FdfsGXPGHIrKoWfxPV0=
+
+Name: gloomyfolken/hooklib/asm/HookContainerParser$HookAnnotationVisit
+ or.class
+SHA-256-Digest: nHR148MlSqBnXqft8GulUdyhB/f9GhCGBRGyYO9Uqhc=
+
+Name: gloomyfolken/hooklib/asm/HookInjectorFactory$MethodEnter.class
+SHA-256-Digest: LoEiSovQnA9We1sGAAZHCpKbfYKVnhGXMaz8ub8Y9rg=
+
+Name: gloomyfolken/hooklib/asm/VariableIdHelper.class
+SHA-256-Digest: wGunrLwsy+bl7wLCUjOSGQZEoxEj6srOH5OPLhkJWXQ=
+
+Name: org/tlauncher/skin/cape/renderer/TextureManager.class
+SHA-256-Digest: Ll/W9cKKsQaHYS66ccEY8WgFQg3iNLgo+raelbxC/b8=
+
+Name: gloomyfolken/hooklib/asm/ReturnCondition.class
+SHA-256-Digest: ygHwbz09qbTAREuOvGerdar1OH9FKBlRgLtbIoBIWRQ=
+
+Name: gloomyfolken/hooklib/minecraft/SecondaryTransformerHook.class
+SHA-256-Digest: Fk7xbLIydGsn5arJrGvX+LT5RjbJPkBohilA9U/QKjg=
+
+Name: gloomyfolken/hooklib/example/ExampleHookLoader.class
+SHA-256-Digest: sQNSPLDPOZ2AXszFrFNMrVrYoneGS7CUvxK69A0WFnA=
+
+Name: gloomyfolken/hooklib/asm/HookInjectorClassVisitor.class
+SHA-256-Digest: oj7NQ7msMsj8Z6mhBSgMpdnBN3TSyXtE0ZgE4WUs/Bo=
+
+Name: org/tlauncher/skin/cape/asm/TLSkinCapeHooks.class
+SHA-256-Digest: ya13cs45ec3+QRwzXmr3NvNJ2HK3fwvGt9RaiDR0PHY=
+
+Name: org/tlauncher/skin/cape/util/cape_test_272.png
+SHA-256-Digest: hJbumf7gSsjbWy7vJadOKEO3iH5kCt1gK+e7ZGdMwco=
+
+Name: gloomyfolken/hooklib/asm/HookInjectorFactory$LineNumber.class
+SHA-256-Digest: IYUqfao+kYHB1eqjJ3bz+k4tpqVo4S0d0Ocmg5W86vw=
+
+Name: org/tlauncher/skin/cape/model/PreparedTextureData.class
+SHA-256-Digest: U4XiTEK+oCZAhJlP/nSZXX2vCzGn8jZRWwnqqZFEDBs=
+
+Name: org/tlauncher/skin/cape/model/DynamicTexture.class
+SHA-256-Digest: yZaxpJCjfVgOP+WESENhRjND4gEyucA9sr7SoZfOpAc=
+
+Name: org/tlauncher/skin/cape/util/PreparedProfileManager$1.class
+SHA-256-Digest: PHnQYc8PnVWmCHsdSWfPdBCpru/zz2b5LnVy/BGIr84=
+
+Name: gloomyfolken/hooklib/disk/DiskHookLib.class
+SHA-256-Digest: kpKP9i3FndQ3EgRjsbveaPXlYZxjIRdQ3zGcncvroHg=
+
+Name: gloomyfolken/hooklib/asm/HookLogger.class
+SHA-256-Digest: k5BtQ4z61WU2gcU2ypNobtr2ZIL9/jTNNZhOH9SES5Q=
+
+Name: gloomyfolken/hooklib/asm/AsmHook.class
+SHA-256-Digest: uQFoWigRt+jqw0SA6v+Zv75gRBe3iWx7mVk1h+d4V4U=
+
+Name: gloomyfolken/hooklib/example/AnnotationHooks.class
+SHA-256-Digest: P25hYFCIl+J1VeM+bdA+FwapMe1Jo4bm859AhtQFs/Y=
+
+Name: org/tlauncher/skin/cape/renderer/TextureManager$1.class
+SHA-256-Digest: uEtzmI/A5sv8jzqeA3xqw2Tju9U2KsfYMhapFB6j43I=
+
+Name: gloomyfolken/hooklib/asm/VariableIdHelper$1$1.class
+SHA-256-Digest: pmoW2KzQIL+RPnJuhcgyk3VXJaNVN0Ga3u/OOPbp6Q4=
+
+Name: gloomyfolken/hooklib/minecraft/HookLibPlugin.class
+SHA-256-Digest: VNEeuuB3ERllBBw2slSZNmvRjahamFMKTF3kewFZ6sk=
+
+Name: org/tlauncher/skin/cape/renderer/texture/FramedTexture.class
+SHA-256-Digest: svRrNdihSmUhO4Bx3s05Omm+y+V04V9iBwqcsnNeLXk=
+
+Name: gloomyfolken/hooklib/asm/Hook$ReturnValue.class
+SHA-256-Digest: Gs24StXQKOwvJ1JHV0+xMSraRwoy9YSPW7hR509tJn0=
+
+Name: org/tlauncher/skin/cape/asm/TLSkinCapeHookLoader.class
+SHA-256-Digest: aHDTnoco1WU7Y53u+jYF6ZUBq+gZGgXiCsDH65bjZGk=
+
+Name: gloomyfolken/hooklib/minecraft/PrimaryClassTransformer$1.class
+SHA-256-Digest: wXkmh++/ZmjuBa4gKNQKQzktQF9fWpd+oy0Ea7cZbBw=
+
+Name: gloomyfolken/hooklib/asm/SafeClassWriter.class
+SHA-256-Digest: bQ0wapLCCkzrk+J37UnWbzbwJ+QOgQN08fFjxsgj5uY=
+
+Name: gloomyfolken/hooklib/asm/HookInjectorFactory$MethodExit.class
+SHA-256-Digest: jP0itJmmD/ZSb4NsQxn3yJILovxhh0Afg2iRxsJRsI0=
+
+Name: org/tlauncher/skin/cape/util/TextureUtils.class
+SHA-256-Digest: a/axTO01JzyI6NFweeuT1ajdMe2JRjEY/WGaC5Xnebw=
+
+Name: gloomyfolken/hooklib/asm/TypeHelper.class
+SHA-256-Digest: MS8lq+NVPICP+Svnaap3uJ4ZIKY2zl59HW+aBoh3lUE=
+
+Name: gloomyfolken/hooklib/helper/DictionaryGenerator.class
+SHA-256-Digest: mqbalddsmmOPSz7xLktEZFl2dTaEMgt/kwGfZ03X/68=
+
+Name: gloomyfolken/hooklib/minecraft/MinecraftClassTransformer$1.class
+SHA-256-Digest: R/r/nYhfNAaorUf8Q+p7ndS04+lEFzXnEfQlnjOi05M=
+
+Name: gloomyfolken/hooklib/asm/Hook.class
+SHA-256-Digest: xkmVUfqvE/a4/Za0BB4xeLTcJy+NnMzCsyHJGUUW5MM=
+
+Name: gloomyfolken/hooklib/asm/HookLogger$VanillaLogger.class
+SHA-256-Digest: dcnlyfUvTZN/lviYB8TmJgmxC+nSwCQdX2KVVrKWnF8=
+
+Name: gloomyfolken/hooklib/asm/HookInjectorMethodVisitor.class
+SHA-256-Digest: uGuUBZGd8jfAI2hkOjirZn4uQMAvIz2vT2MdEOHmcdo=
+
+Name: gloomyfolken/hooklib/minecraft/HookLoader.class
+SHA-256-Digest: xkaaK/yk5we96Lk9cgSqGcriINvn+1Lkr8AYkMJM6e8=
+
+Name: gloomyfolken/hooklib/minecraft/MinecraftClassTransformer.class
+SHA-256-Digest: mHP2Eze3bgnRZK3eNJqGeB91XPFv2Rncl9Pe/GKpKiU=
+
+Name: gloomyfolken/hooklib/asm/ReturnValue.class
+SHA-256-Digest: WauJHC2PYFfWQjc6Hb6i0p8nKBqUHdYU56WJDBxQp5w=
+
+Name: gloomyfolken/hooklib/asm/ReadClassHelper.class
+SHA-256-Digest: hh7QeQK/n4TL07VddgnWnl7G7F+9p9us+y+Y8zLlUBQ=
+
+Name: gloomyfolken/hooklib/asm/HookInjectorFactory.class
+SHA-256-Digest: f2+hefPX85teVU8TDP3dY9Idx325zO6vWW6om50UFFA=
+
+Name: gloomyfolken/hooklib/asm/ClassMetadataReader.class
+SHA-256-Digest: T8nIJD0TlB19FBlnx6v0V6N6K4spi/1j+K2Aw5FPxok=
+
+Name: gloomyfolken/hooklib/asm/HookContainerParser$HookMethodVisitor.c
+ lass
+SHA-256-Digest: 95jiHoHoZ4ZB7tA7VP2VNjPJmAzd9+908THckrLERrc=
+
+Name: gloomyfolken/hooklib/asm/HookInjectorMethodVisitor$LineNumber.cl
+ ass
+SHA-256-Digest: l6LYdikK7kRfbXcSge0NNXYgEsGH6yq4jQ/gkpN0i7E=
+
+Name: gloomyfolken/hooklib/asm/HookLogger$SystemOutLogger.class
+SHA-256-Digest: x5Jtp5UNMA3ic4MkAMObkQF07mAc4hIba1jDLFauF5U=
+
+Name: gloomyfolken/hooklib/asm/HookClassTransformer.class
+SHA-256-Digest: QOglwh90TOuntqA9JRQW3RWtagq4UbE58EpfNJ8NCKg=
+
+Name: org/tlauncher/skin/cape/util/PreparedProfileManager$3.class
+SHA-256-Digest: 5CtNQyaaLVd0MYf1KHAjCxTug1QB2WN47E7U0QcSe/w=
+
+Name: gloomyfolken/hooklib/asm/ClassMetadataReader$MethodReference.cla
+ ss
+SHA-256-Digest: ttnSLHei081sishzvWpvK6p/asF5W69eiXpF+974ZCk=
+
+Name: gloomyfolken/hooklib/asm/HookInjectorMethodVisitor$MethodExit.cl
+ ass
+SHA-256-Digest: 5RVoQgX1tz4ql4mgTaTmT2zidxCnfRzGp9OFKXrFHyc=
+
+Name: gloomyfolken/hooklib/asm/HookContainerParser.class
+SHA-256-Digest: PCONaQNpfr3RBepRs4bShqTb4k1/Lldnf/g1jNZPIFE=
+
+Name: gloomyfolken/hooklib/asm/ClassMetadataReader$CheckSuperClassVisi
+ tor.class
+SHA-256-Digest: Ux1enmznP2Fc53CO7AhCDOI/9DLuhEm1OOS5wOP9vNA=
+
+Name: methods.bin
+SHA-256-Digest: M+qK5qAlmzFEkd9jPC6gUdwkUl7ayKjSm6xVirXvaTA=
+
+Name: gloomyfolken/hooklib/asm/HookInjectorMethodVisitor$MethodEnter.c
+ lass
+SHA-256-Digest: vgC4MYzQymP8A8tXisy//d6hdGpFhBNCVkOOYKKK3B8=
+
+Name: gloomyfolken/hooklib/asm/HookContainerParser$HookMethodVisitor$1
+ .class
+SHA-256-Digest: qhVJ2gjF9/GJ9DTYfYFDUjpPSxi7Ug93ukC0vXNWUX4=
+
+Name: org/tlauncher/skin/cape/TLSkinCape.class
+SHA-256-Digest: gqmYicTrpxVdKwQyOT8Ekvd/PckpQgs2zqvInZgJBQo=
+
+Name: gloomyfolken/hooklib/asm/HookPriority.class
+SHA-256-Digest: gw6LE3hYs2dhIlk0fRTYYTBnPyULxKuuThT2ApeRY78=
+
+Name: gloomyfolken/hooklib/minecraft/DeobfuscationMetadataReader.class
+SHA-256-Digest: /c+fN4KkA031h4S5WZfeZ/hb/IjnCJr0OS+yQPkGuiY=
+
+Name: org/tlauncher/skin/cape/model/ProfileTexture.class
+SHA-256-Digest: tiboGeGipz+PRpZ8EjqijPvWnx5Bzbi9okAlcHB6LrY=
+
+Name: mcmod.info
+SHA-256-Digest: hvgf8k0UuKfCF6HuzfoMgxhoQ5XVBuOf++Y6Ra32kJ4=
+
+Name: gloomyfolken/hooklib/asm/VariableIdHelper$1.class
+SHA-256-Digest: KrUTnG3iZZNEvW95fmvJH0EfmsNja5wCbIiVF9z4BCw=
+

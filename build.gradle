@@ -1,0 +1,7 @@
+version = "1.4"
+group = "org.tlauncher"
+
+subprojects {
+    version = "1.4"
+    group = "org.tlauncher"
+}
